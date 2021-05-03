@@ -8,12 +8,12 @@
 # Examples
 ## Ranked Solo
 It crawls these information.
-![](/img/SoloRank)
+![](/img/SoloRank.png)
 
 ## Flex 5:5 Rank
 It crawls these information.
-![](/img/FlexRank)
+![](/img/FlexRank.png)
 
 ## KDA stats
 It crawls these information.
-![](/img/KDA)
+![](/img/KDA.png)
