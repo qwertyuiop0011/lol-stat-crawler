@@ -5,9 +5,6 @@
 # Thanks to
 - InsanePhin (https://github.com/InsanePhin)
 
-# License (MIT License)
-- Feel free to use these codes. It can be used for commercial purposes.
-
 # Examples
 ## Ranked Solo
 It crawls these information.
